@@ -1,8 +1,7 @@
 # The HANGMAN Game
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![Property_Price_Predictor](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3253300/header.jpg?t=1732659042)
-
+![Property_Price_Predictor](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3253300/header.jpg?t=1732659042)  
 *Image source: [STEAM](https://store.steampowered.com/app/3253300/HANGMAN/)*
 
 ## Project Description
@@ -98,6 +97,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zivile-butkute/).
 
 
 
-[![Gaming GIF](https://media1.tenor.com/m/i1Hn_Rkco4IAAAAC/controller-grass.gif)](https://tenor.com/en-GB/view/controller-grass-gif-10039060118619595650)
-
+[![Gaming GIF](https://media1.tenor.com/m/i1Hn_Rkco4IAAAAC/controller-grass.gif)](https://tenor.com/en-GB/view/controller-grass-gif-10039060118619595650)  
 *Image source: [tenor](https://tenor.com/en-GB/view/controller-grass-gif-10039060118619595650)*
